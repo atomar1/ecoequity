@@ -1,0 +1,58 @@
+Poverty
+Unemployment
+PM2.5
+Ozone
+Diesel PM
+Drinking Water
+Asthma
+Low Birth Weight
+Traffic
+Linguistic Isolation
+Poverty_x_Unemployment
+Poverty_x_PM2.5
+Poverty_x_Ozone
+Poverty_x_Diesel PM
+Poverty_x_Drinking Water
+Poverty_x_Asthma
+Poverty_x_Low Birth Weight
+Poverty_x_Traffic
+Poverty_x_Linguistic Isolation
+Unemployment_x_PM2.5
+Unemployment_x_Ozone
+Unemployment_x_Diesel PM
+Unemployment_x_Drinking Water
+Unemployment_x_Asthma
+Unemployment_x_Low Birth Weight
+Unemployment_x_Traffic
+Unemployment_x_Linguistic Isolation
+PM2.5_x_Ozone
+PM2.5_x_Diesel PM
+PM2.5_x_Drinking Water
+PM2.5_x_Asthma
+PM2.5_x_Low Birth Weight
+PM2.5_x_Traffic
+PM2.5_x_Linguistic Isolation
+Ozone_x_Diesel PM
+Ozone_x_Drinking Water
+Ozone_x_Asthma
+Ozone_x_Low Birth Weight
+Ozone_x_Traffic
+Ozone_x_Linguistic Isolation
+Diesel PM_x_Drinking Water
+Diesel PM_x_Asthma
+Diesel PM_x_Low Birth Weight
+Diesel PM_x_Traffic
+Diesel PM_x_Linguistic Isolation
+Drinking Water_x_Asthma
+Drinking Water_x_Low Birth Weight
+Drinking Water_x_Traffic
+Drinking Water_x_Linguistic Isolation
+Asthma_x_Low Birth Weight
+Asthma_x_Traffic
+Asthma_x_Linguistic Isolation
+Low Birth Weight_x_Traffic
+Low Birth Weight_x_Linguistic Isolation
+Traffic_x_Linguistic Isolation
+Poverty^2
+Poverty Unemployment
+Unemployment^2
